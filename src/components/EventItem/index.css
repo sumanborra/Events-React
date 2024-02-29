@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.list-item {
+  margin: 5px;
+  background-color: transparent;
+  width: 48%;
+}
+.buttn {
+  background-color: transparent;
+
+  border-width: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.image-style {
+  border: 3px solid #2dd4bf;
+}
+.image-event-item {
+  height: 160px;
+  border-radius: 12px;
+}
+.heading-card-image {
+  font-family: 'Roboto';
+  color: #f8fafc;
+}
+.para-card-image {
+  font-family: 'Roboto';
+  color: #f8fafc;
+}

@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.background-container {
+  display: flex;
+  min-height: 100vh;
+}
+.event-card-background-container {
+  background-color: #64748b;
+  min-height: 100vh;
+  width: 60vw;
+  padding: 30px;
+}
+.heading-events {
+  font-family: 'Roboto';
+  font-size: 42px;
+  color: #ffffff;
+}
+.list-container {
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  background-color: transparent;
+}
+.result-page-container{
+  background-color: #f8fafc;
+  padding: 40px;
+  font-family: "Roboto";
+  width: 40vw;
+
+}
